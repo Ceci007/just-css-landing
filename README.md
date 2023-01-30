@@ -1,4 +1,4 @@
-## 🧐 trillo responsive
+## 🧐 Just CSS Landing
 
 > This is a page made with HTML and CSS (Vanilla), is a template for a fictional mobile product, is for educational purpuses.
 
