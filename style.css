@@ -1,3 +1,4 @@
+/* ---------- BASE ----------- */
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
 
 * {
@@ -29,6 +30,7 @@ body {
   background-color: #e9f1f3;
 }
 
+/* ---------- Navbar ----------- */
 .navbar {
   width: 100%;
   display: flex;
@@ -81,6 +83,7 @@ body {
   font-weight: 500;
 }
 
+/* ---------- HERO ----------- */
 .header {
   padding: 20px 100px;
   display: flex;
